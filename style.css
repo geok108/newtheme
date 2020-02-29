@@ -2,3 +2,14 @@
 Theme name: Test Theme
 Author: George Kleanthous
 */
+
+body{
+background: #e7e7e7; 
+
+}
+
+header{
+	background: #fff;
+	width: 100%;
+	height: 100px;
+}
